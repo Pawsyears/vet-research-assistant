@@ -19,27 +19,28 @@ function PureSuggestedActions({
   selectedVisibilityType,
 }: SuggestedActionsProps) {
   const suggestedActions = [
-    {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
-    },
-    {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
-    },
-    {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
-    },
-    {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
-    },
-  ];
+  {
+    title: 'What are the latest treatment',
+    label: 'protocols for canine parvovirus?',
+    action: 'What are the latest treatment protocols for canine parvovirus?',
+  },
+  {
+    title: 'Show me recent studies on',
+    label: 'hip dysplasia in German Shepherds',
+    action: 'Show me recent studies on hip dysplasia in German Shepherds',
+  },
+  {
+    title: 'What drug interactions should',
+    label: 'I watch for with prednisone?',
+    action: 'What drug interactions should I watch for with prednisone in dogs?',
+  },
+  {
+    title: 'Compare efficacy of different',
+    label: 'heartworm prevention medications',
+    action: 'Compare efficacy of different heartworm prevention medications',
+  },
+];
+
 
   return (
     <div
