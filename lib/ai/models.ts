@@ -13,7 +13,7 @@ export const chatModels: Array<ChatModel> = [
     description: 'Primary model for all-purpose chat',
   },
   {
-    id: 'chat-model-research',
+    id: 'chat-model-reasoning',
     name: 'Reseacrh model',
     description: 'Uses advanced research',
   },
